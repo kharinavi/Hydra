@@ -4,19 +4,8 @@ public class Head {
     private int eyeCount;
     private int earCount;
 
-    public int getEyeCount() {
-        return eyeCount;
-    }
-
-    public void setEyeCount(int eyeCount) {
+    public Head(int eyeCount, int earCount) {
         this.eyeCount = eyeCount;
-    }
-
-    public int getEarCount() {
-        return earCount;
-    }
-
-    public void setEarCount(int earCount) {
         this.earCount = earCount;
     }
 

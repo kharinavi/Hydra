@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4d3fe89-3d20-4dc1-b861-87dfa3cc8a15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/Head.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/Hydra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/TestSpring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/Head.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/Head.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/kharina/study/hydra/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +42,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Work/IdeaProject/Hydra",
+    "spring.configuration.checksum": "0a79d2e788f647cf8c8bee8cad4bf94e"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666345236644</updated>
-      <workItem from="1666345238438" duration="3095000" />
+      <workItem from="1666345238438" duration="9176000" />
+      <workItem from="1666631710862" duration="606000" />
     </task>
     <servers />
   </component>
